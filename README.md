@@ -22,13 +22,13 @@ To create the output signal, there is a mix between dry and wet signals (Mix).
  
 # Modulators
 There are seven modulators to create different effects.
-* Perlin Noise
-* Audio-Rate
-* Dropout
-* Envelope Follower
-* Macro
-* Pitch Band
-* LFO
+* Perlin, natural noise to modulate the vibrato.
+* Audio-Rate, midi note controlled oscillator.
+* Dropout, generates random pitch dropouts.
+* Envelope Follower, modulate the vibrato energy.
+* Macro, modulates the internal delay.
+* Pitchbend, modulates the vibrato.
+* LFO, modulates the vibrato with a classic LFO shapes.
   
 # Group: Algorhythmics 
 * Alice Sironi
