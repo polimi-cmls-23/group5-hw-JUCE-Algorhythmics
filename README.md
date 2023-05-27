@@ -8,6 +8,12 @@ The user has the possibility to create several types of vibrato texture by selec
 <img width="500px" src="gui.png">
 <div>
 
+# Block Diagram
+<div>
+<img width="500px" src="nel19.drawio.png">
+<div>
+  
+  
 # Group: Algorhythmics 
 * Alice Sironi
 * Cecilia Raho
