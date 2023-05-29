@@ -29,6 +29,18 @@ There are seven modulators to create different effects.
 * Macro, modulates the internal delay.
 * Pitchbend, modulates the vibrato.
 * LFO, modulates the vibrato with a classic LFO shapes.
+ 
+#Presets
+* Broken tape
+* Flanger 
+* Psychosis 
+* Resample 
+* Shoe Gaze 
+* Sines 
+* Thick 
+* Dream arp
+* Audio rate
+* Init
   
 # Group: Algorhythmics 
 * Alice Sironi
