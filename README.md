@@ -30,7 +30,7 @@ There are seven modulators to create different effects.
 * Pitchbend, modulates the vibrato.
 * LFO, modulates the vibrato with a classic LFO shapes.
  
-#Presets
+# Presets
 * Broken tape
 * Flanger 
 * Psychosis 
